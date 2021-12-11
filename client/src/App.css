@@ -1,0 +1,29 @@
+.App {
+  display: block;
+  text-align: center;
+}
+
+.icons {
+  cursor: pointer;
+}
+
+.strike-completed {
+  text-decoration: line-through;
+  background-color: rgb(8, 68, 8) !important;
+}
+.list-container {
+  border: 5px solid #535336;
+  margin-top: 2rem;
+  max-width: 960px;
+}
+.left-list-card {
+  float: left;
+  padding-left: 3rem;
+}
+.right-list-card {
+  float: right;
+  padding-right: 3rem;
+}
+.list-card {
+  margin-top: 3rem;
+}
