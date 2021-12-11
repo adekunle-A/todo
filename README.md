@@ -8,10 +8,10 @@
 
 ### Step 2 : cd client
 
-### Step 3 : npm i
+### Step 3 : npm install
 
 ### Step 4 : npm start
 
 ### Reflections
 
-#### If it a bigger application I would have used context api hooks to manage data.Build date formnat to format dates better and build mny own backend
+#### If it a bigger application I would have used context api hooks to manage data.Build date formatter to format dates better and build mny own backend
